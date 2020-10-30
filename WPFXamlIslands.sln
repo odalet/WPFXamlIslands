@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFXamlIslands - Original",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFXamlIslands - UWP", "WPFXamlIslands - UWP\WPFXamlIslands - UWP.csproj", "{9E09794F-6E1D-40BB-9694-7D71789D9FB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFXamlIslandsSdkStyle", "WPFXamlIslandsSdkStyle\WPFXamlIslandsSdkStyle.csproj", "{29B99D76-059A-46AE-BEEB-3B46B12293E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9E09794F-6E1D-40BB-9694-7D71789D9FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E09794F-6E1D-40BB-9694-7D71789D9FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E09794F-6E1D-40BB-9694-7D71789D9FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B99D76-059A-46AE-BEEB-3B46B12293E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B99D76-059A-46AE-BEEB-3B46B12293E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B99D76-059A-46AE-BEEB-3B46B12293E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B99D76-059A-46AE-BEEB-3B46B12293E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
